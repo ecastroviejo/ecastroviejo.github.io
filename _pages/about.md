@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.ehu.eus/en/en-home'>University of the Basque Country (UPV/EHU)</a> 
+subtitle: <a href='http://www.ub.edu/'>Universitat de Barcelona (UB)</a> 
 
 profile:
   align: right

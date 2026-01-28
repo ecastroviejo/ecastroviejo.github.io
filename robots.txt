@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://elena-castroviejo-miro.cat/sitemap.xml
+Sitemap: https://ecastroviejo.github.io/sitemap.xml

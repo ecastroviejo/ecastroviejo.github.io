@@ -27,11 +27,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a **linguist** and I am especially interested in natural language **meaning**. I work as an Associate Researcher (Investigadora Doctora Permanente / Ikertzaile Doktore Iraunkorra) with the Department of Linguistics and Basque Studies of the University of the Basque Country (UPV/EHU), and I am an active member of the Hizkuntzalaritza Teorikorako Taldea (HiTT) and the Language in Neurodiversity Lab (Lindy Lab). 
+I am a **linguist** and I am especially interested in natural language **meaning**. As of 2026, I am an Associate Professor (Professora Agregada) in the Department of Catalan Philology and General Linguistics at the Universitat de Barcelona (UB). 
 
 <i class="fa-solid fa-link"></i> Check out my bio and CV [here](cv/). 
         
-<p style="color: #bb3e03; margin-top: 0.6rem;"> S&oacute;c <strong>ling&uuml;ista</strong> i m'interesso especialment pel <strong>significat</strong> de les lleng&uuml;es naturals. Tinc una pla&ccedil;a d'Investigadora Doctora Permanent al Departament de Ling&uuml;&iacute;stica i Estudis Bascos  de la  Universitat del Pa&iacute;s Basc (UPV/EHU), i s&oacute;c un membre actiu de l'Hizkuntzalaritza Teorikorako Taldea  (HiTT) i del Language in Neurodiversity Lab (Lindy Lab). <br> <br>
+<p style="color: #bb3e03; margin-top: 0.6rem;"> S&oacute;c <strong>ling&uuml;ista</strong> i m'interesso especialment pel <strong>significat</strong> de les lleng&uuml;es naturals. Des de gener de 2026 ocupo una pla&#231;a de Professora Agregada al Departament de Filologia Catalana i Ling&uuml;&iacute;stica General de la  Universitat de Barcelona (UB). <br> <br>
 
 <i class="fa-solid fa-link"></i> Clica <a href="cv/">aquí</a> per saber-ne més. </p>
 
